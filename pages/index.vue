@@ -31,10 +31,6 @@ function convertIsoToTime(isoDuration: string): string {
                     <h1>{{ new Date(Number(item.timestamp) * 1000).toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true, hourCycle: 'h23'}) }}</h1>
                     <a :href="item.links[0]['url']" style="        text-decoration: none;color: blue;">{{item.links[0]["title"] }}</a>
                     <p>{{ item.values["header"] }}</p>
-                    <h1>{{ new Date(item.timestamp * 1000).toLocaleString() }}</h1>
-
-                    <a :href="item.links[0]['url']">{{item.links[0]["title"] }}</a>
-                    <p>{{ item.values["header"] }}</p> -->
                 </li>
             </ul>
             

@@ -14,6 +14,7 @@ function convertIsoToTime(isoDuration: string): string {
 
     return `${hoursStr}:${minutesStr}:${secondsStr}`;
 }
+
 </script>
 <template>
     <head>

@@ -17,7 +17,7 @@ function convertIsoToTime(isoDuration: string): string {
 </script>
 <template>
     <head>
-        <title>SSSniperwolf Incident Timeline</title>
+        <title>sAlia Dashboard</title>
     </head>
     <div class="sharp">
         <div v-if="pending">
@@ -25,12 +25,12 @@ function convertIsoToTime(isoDuration: string): string {
         </div>
         <div v-else>
             <ul class="timeline">
-                <h1>SSSniperwolf Incident Timeline</h1>
+                <h1>sAlia Incident Timeline (based on available information)</h1>
             <!-- Timeline fetched from API -->
-                <li v-for="item in data['timelineData']" class="timeline-item">
-                    <h1>{{ new Date(Number(item.timestamp) * 1000).toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true, hourCycle: 'h23'}) }}</h1>
-                    <a :href="item.links[0]['url']" style="        text-decoration: none;color: blue;">{{item.links[0]["title"] }}</a>
-                    <p>{{ item.values["header"] }}</p>
+                <li v-for="timelineItem in data?.timelineData" class="timeline-item">
+                    <h1>{{ new Date(Number(timelineItem.timestamp) * 1000).toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true, hourCycle: 'h23'}) }}</h1>
+                    <a :href="timelineItem.links[0]['url']" style="        text-decoration: none;color: rgb(81, 255, 136);">{{timelineItem.links[0]["title"] }}</a>
+                    <p>{{ timelineItem.values["header"] }}</p>
                 </li>
             </ul>
             
@@ -53,7 +53,11 @@ function convertIsoToTime(isoDuration: string): string {
                     </li>
                 </li>
             </ul>
-            </div> 
+            </div> <br>
+            <footer style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+                <p>Created by <a href="https://github.com/de-y" style="text-decoration: none; color: rgb(59, 255, 115);">de-y</a></p>
+                <a href="https://github.com/de-y/sniperwolfed" style="text-decoration: none; color: rgb(0, 191, 255);">GitHub</a>
+            </footer>
     </div>
 </template>
 <style scoped>
@@ -80,11 +84,13 @@ function convertIsoToTime(isoDuration: string): string {
         align-content: center;
         color: white;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        overflow: auto;
+        height: 40vh;
     }
     .timeline-item {
         padding: 20px;
         background-color: #292929;
-        width: fit-content;
+        width: 65%;
         border-radius: 10px;
         margin: 0 auto;
         margin-bottom: 10px;

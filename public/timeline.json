@@ -1,0 +1,51 @@
+[
+    {
+      "timestamp": "1697249520",
+      "links": [
+        {
+          "title": "Twitter Thread",
+          "url": "https://twitter.com/jacksfilms/status/1713014921812905991"
+        }
+      ],
+      "values": {
+        "header": "Alia Doxxes Jacksfilms on her Instagram"
+      }
+    },
+    {
+      "timestamp": "1697340635",
+      "links": [
+        {
+          "title": "Discord Message",
+          "url": "https://discord.com/channels/484055303453802506/490211067960754176/1162955705402269726"
+        }
+      ],
+      "values": {
+        "header": "FBI gets involved into the case behind Alia"
+      }
+    },
+    {
+        "timestamp": "1697819820",
+        "links": [
+            {
+            "title": "Tweet",
+            "url": "https://twitter.com/TeamYouTube/status/1715406957736038476"
+            }
+        ],
+        "values": {
+            "header": "YouTube 'temporarily' demonitizes Alia"
+        }
+    },
+    {
+        "timestamp":"1697822280",
+        "links": [
+            {
+                "title": "Tweet",
+                "url": "https://twitter.com/sssniperwolf/status/1715417126113362219"
+            }
+        ],
+        "values": {
+            "header": "Alia apologizes to Jacksfilms (albeit terribly)"
+        }
+    }
+]
+  

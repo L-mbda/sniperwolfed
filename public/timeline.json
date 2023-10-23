@@ -48,16 +48,28 @@
         }
     },
     {
-      "timestamp": "1697249520",
+      "timestamp": "1697923507",
       "links": [
         {
-          "title": "Twitter Thread",
-          "url": "https://twitter.com/jacksfilms/status/1713014921812905991"
+          "title": "Reddit Post",
+          "url": "https://www.reddit.com/r/JacksFilms/comments/17dcuv6/sssniperwolf_credits_the_creator/"
         }
       ],
       "values": {
-        "header": "Alia Doxxes Jacksfilms on her Instagram"
+        "header": "Alia credits creators in her latest video"
       }
     },
+    {
+      "timestamp": "1698061500",
+      "links": [
+        {
+          "title": "YouTube Video",
+          "url": "https://www.youtube.com/watch?v=IaIBLB4VxBM/"
+        }
+      ],
+      "values": {
+        "header": "Alia gets copyright striked on YouTube"
+      }
+    }
 ]
   

@@ -58,6 +58,18 @@
       "values": {
         "header": "Alia credits creators in her latest video"
       }
-    }
+    },
+    {
+        "timestamp": "1698065100",
+        "links": [
+            {
+                "title": "YouTube video",
+                "https://www.youtube.com/watch?v=IaIBLB4VxBM",
+            }
+        ],
+        "values": {
+            "header": "Alia gets copyright striked",
+        }
+    },
 ]
   

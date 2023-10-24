@@ -880,39 +880,39 @@
     "new_duration": 507
   },
   {
-    "type": "duration",
-    "video": {
+    "type": "removed",
+    "old_video": {
       "kind": "youtube#video",
-      "etag": "EsGgh8wHQxcvgYSnSazgeqiDtDM",
-      "id": "Iae1H9WAC0o",
+      "etag": "fdAYxhlW-HPZ9_JGHjU_9dyU3nw",
+      "id": "RTIvMvbOH6g",
       "snippet": {
-        "publishedAt": "2023-01-25T21:30:04Z",
+        "publishedAt": "2016-12-24T20:00:52Z",
         "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "TikToks Only Girls Understand!",
-        "description": "TikToks Only Girls Understand! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last tiktok vid https://youtu.be/xJP7o4lR680 Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "title": "GIRL ON OMEGLE",
+        "description": "GIRL ON OMEGLE! LEAVE A LIKE IF YOU ENJOYED! Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/default.jpg",
+            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -921,26 +921,23 @@
         "tags": [
           "sssniperwolf",
           "sniper wolf",
-          "reacting",
-          "reaction",
-          "funny",
-          "tiktok",
-          "tik tok",
-          "tiktok meme",
-          "funniest tik toks",
-          "tik toks worth watching",
-          "memes"
+          "sniperwolf",
+          "omegle",
+          "sssniperwolf omegle",
+          "omegle funny",
+          "omegle trolling",
+          "omegle prank",
+          "omegle girls"
         ],
-        "categoryId": "24",
+        "categoryId": "20",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "TikToks Only Girls Understand!",
-          "description": "TikToks Only Girls Understand! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last tiktok vid https://youtu.be/xJP7o4lR680 Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
-        },
-        "defaultAudioLanguage": "en"
+          "title": "GIRL ON OMEGLE",
+          "description": "GIRL ON OMEGLE! LEAVE A LIKE IF YOU ENJOYED! Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf"
+        }
       },
       "contentDetails": {
-        "duration": "PT9M15S",
+        "duration": "PT11M5S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -949,333 +946,386 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "4184199",
-        "likeCount": "86472",
+        "viewCount": "2003947",
+        "likeCount": "38639",
         "favoriteCount": "0",
-        "commentCount": "3592"
+        "commentCount": "2098"
       }
-    },
-    "old_duration": 556,
-    "new_duration": 555
-  },
-  {
-    "type": "duration",
-    "video": {
-      "kind": "youtube#video",
-      "etag": "a-zLlgJnwFMvRQEjrvgiuIp6zb8",
-      "id": "Y3yDKCc2spA",
-      "snippet": {
-        "publishedAt": "2023-01-23T23:55:17Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "TikToks Where I Understood The Assignment",
-        "description": "TikToks Where I Understood The Assignment! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last one https://youtu.be/hW_2uqrOzuU Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "reacting",
-          "reaction",
-          "funny",
-          "tiktok",
-          "tik tok",
-          "tiktok meme",
-          "funniest tik toks",
-          "tik toks worth watching",
-          "memes"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "TikToks Where I Understood The Assignment",
-          "description": "TikToks Where I Understood The Assignment! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last one https://youtu.be/hW_2uqrOzuU Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT8M23S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "4932415",
-        "likeCount": "95494",
-        "favoriteCount": "0",
-        "commentCount": "2803"
-      }
-    },
-    "old_duration": 504,
-    "new_duration": 503
-  },
-  {
-    "type": "duration",
-    "video": {
-      "kind": "youtube#video",
-      "etag": "3AW7w_e2hW_nCA5DBGN9bHMh7qg",
-      "id": "5TQCdVxMT8s",
-      "snippet": {
-        "publishedAt": "2021-05-04T19:26:48Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "Craziest Nail Art On Another Level",
-        "description": "Craziest Nail Art On Another Level! Leave a Like if you enjoyed! Watch the last vid https://youtu.be/OJJJhGmCYtc Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nilysmnails: https://www.youtube.com/c/ilysmNails/videos\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "reacting",
-          "reaction",
-          "funny",
-          "nail art",
-          "weirdest",
-          "weirdest nail art",
-          "nail art designs",
-          "nails",
-          "nail",
-          "art"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Craziest Nail Art On Another Level",
-          "description": "Craziest Nail Art On Another Level! Leave a Like if you enjoyed! Watch the last vid https://youtu.be/OJJJhGmCYtc Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nilysmnails: https://www.youtube.com/c/ilysmNails/videos\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT9M25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "12208134",
-        "likeCount": "204409",
-        "favoriteCount": "0",
-        "commentCount": "11319"
-      }
-    },
-    "old_duration": 593,
-    "new_duration": 565
-  },
-  {
-    "type": "duration",
-    "video": {
-      "kind": "youtube#video",
-      "etag": "7oVqcBTulnjNzEd-HEhzJhAAsTk",
-      "id": "Ty9xe3PpaQM",
-      "snippet": {
-        "publishedAt": "2023-07-30T17:05:00Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "Most Oddly Satisfying Video to watch before sleep",
-        "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last satisfying vid https://youtu.be/BQTjYSStqNM Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "reacting",
-          "reaction",
-          "funny",
-          "satisfying",
-          "oddly satisfying",
-          "satisfying video",
-          "oddly satisfying video"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Most Oddly Satisfying Video to watch before sleep",
-          "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last satisfying vid https://youtu.be/BQTjYSStqNM Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT8M56S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2194610",
-        "likeCount": "39860",
-        "favoriteCount": "0",
-        "commentCount": "2331"
-      }
-    },
-    "old_duration": 539,
-    "new_duration": 536
-  },
-  {
-    "type": "duration",
-    "video": {
-      "kind": "youtube#video",
-      "etag": "LWqr_HxD4WFCcbTs6R30N8IK3fY",
-      "id": "OqiLjfODMe4",
-      "snippet": {
-        "publishedAt": "2021-02-14T19:15:00Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "Most Oddly Satisfying Video to watch before sleep",
-        "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last vid https://youtu.be/kT0xwrCg0CA Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "reacting",
-          "reaction",
-          "funny",
-          "satisfying",
-          "oddly satisfying",
-          "satisfying video",
-          "oddly satisfying video"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Most Oddly Satisfying Video to watch before sleep",
-          "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last vid https://youtu.be/kT0xwrCg0CA Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
-        },
-        "defaultAudioLanguage": "en"
-      },
-      "contentDetails": {
-        "duration": "PT8M26S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "22215941",
-        "likeCount": "342452",
-        "favoriteCount": "0",
-        "commentCount": "23432"
-      }
-    },
-    "old_duration": 507,
-    "new_duration": 506
+    }
   },
   {
     "type": "removed",
     "old_video": {
       "kind": "youtube#video",
-      "etag": "d-IKlOnF-_MdT6aMwWNGXLF-ays",
+      "etag": "Rms3_6rHon7cMSz8n9uj8nhk3Qc",
+      "id": "aEt8uMbuwh4",
+      "snippet": {
+        "publishedAt": "2016-08-14T01:37:19Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "HARLEY QUINN TROLL ON OMEGLE",
+        "description": "HARLEY QUINN  ON OMEGLE! Another Omegle Trolling & Funny Moments vid as Harley Quinn! LEAVE A LIKE IF YOU ENJOYED! Sorry for no upload yesterday... Subscribe to join the Wolf Pack if you haven't already and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "omegle",
+          "omegle trolling",
+          "funny omegle",
+          "sssniperwolf omegle",
+          "omegle pranks",
+          "omegle sssniperwolf",
+          "omegle funny"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HARLEY QUINN TROLL ON OMEGLE",
+          "description": "HARLEY QUINN  ON OMEGLE! Another Omegle Trolling & Funny Moments vid as Harley Quinn! LEAVE A LIKE IF YOU ENJOYED! Sorry for no upload yesterday... Subscribe to join the Wolf Pack if you haven't already and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2413533",
+        "likeCount": "56837",
+        "favoriteCount": "0",
+        "commentCount": "4466"
+      }
+    }
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "IFHm-9Ei9w_Ms1Gc3lJyLQNvTr4",
+      "id": "dY7t8Zi8zFc",
+      "snippet": {
+        "publishedAt": "2016-08-05T20:00:20Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "WILL YOU BE MY GIRLFRIEND | OMEGLE FUNNY MOMENTS",
+        "description": "OMEGLE TROLLING & FUNNY MOMENTS - WILL YOU BE MY GIRLFRIEND!? Leave a Like if you enjoyed and can't wait for the next Omegle video! Subscribe to join the Wolf Pack and follow me Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "omegle",
+          "sssniperwolf omegle",
+          "omegle trolling",
+          "omegle funny",
+          "funny omegle"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WILL YOU BE MY GIRLFRIEND | OMEGLE FUNNY MOMENTS",
+          "description": "OMEGLE TROLLING & FUNNY MOMENTS - WILL YOU BE MY GIRLFRIEND!? Leave a Like if you enjoyed and can't wait for the next Omegle video! Subscribe to join the Wolf Pack and follow me Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5607025",
+        "likeCount": "147401",
+        "favoriteCount": "0",
+        "commentCount": "6346"
+      }
+    }
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "9FZPd0Ghtnfyw7Mu-yRJvqz6ED4",
+      "id": "kpQ3InMlC1U",
+      "snippet": {
+        "publishedAt": "2016-05-21T19:00:00Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "OMEGLE TROLLING | PICKING UP GIRLS ON OMEGLE",
+        "description": "Funny Omegle Trolling Picking up girls! Learned a funny trolling prank for Omegle and had to try it! Let me know what you guys want to see me do in Omegle videos! Hit that Like button in the face if you enjoyed and want more funny omegle videos and subscribe to join the Wolf Pack if you haven't already! FOLLOW ME: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/allieber",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "omegle",
+          "sssniperwolf omegle",
+          "sssniperwolf",
+          "omegle trolling",
+          "pranks gone wrong",
+          "omegle funny moments",
+          "omegle pranks"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OMEGLE TROLLING | PICKING UP GIRLS ON OMEGLE",
+          "description": "Funny Omegle Trolling Picking up girls! Learned a funny trolling prank for Omegle and had to try it! Let me know what you guys want to see me do in Omegle videos! Hit that Like button in the face if you enjoyed and want more funny omegle videos and subscribe to join the Wolf Pack if you haven't already! FOLLOW ME: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/allieber"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6455817",
+        "likeCount": "62018",
+        "favoriteCount": "0",
+        "commentCount": "2574"
+      }
+    }
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "aZ0_wUHb50ynkiziTjogxSllFSo",
+      "id": "vUggtyO6LGc",
+      "snippet": {
+        "publishedAt": "2016-04-22T20:04:44Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "THE MEANEST GIRL ON OMEGLE | Omegle Funny Moments",
+        "description": "Funny Omegle Trolling | MEANEST GIRL ON OMEGLE! Time for another Omegle Trolling/Funny Moments video :D Hit that Like button in the face if you enjoyed and want more Omegle videos! Subscribe to join the Wolf Pack! Follow me: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "omegle",
+          "sniper wolf",
+          "omegle trolling",
+          "omegle prank",
+          "sssniperwolf omegle",
+          "funny omegle",
+          "omegle funny moments",
+          "funny"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "THE MEANEST GIRL ON OMEGLE | Omegle Funny Moments",
+          "description": "Funny Omegle Trolling | MEANEST GIRL ON OMEGLE! Time for another Omegle Trolling/Funny Moments video :D Hit that Like button in the face if you enjoyed and want more Omegle videos! Subscribe to join the Wolf Pack! Follow me: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2238985",
+        "likeCount": "53155",
+        "favoriteCount": "0",
+        "commentCount": "2054"
+      }
+    }
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "M0M340I0K72_48wZ-PRmCAO0ATs",
+      "id": "gebNaozTUdo",
+      "snippet": {
+        "publishedAt": "2016-02-17T01:57:56Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "FUNNY OMEGLE REACTIONS | WOLF PACK MEETUP!",
+        "description": "WOLF PACK MEETUP! | FUNNY OMEGLE REACTIONS! Did a Wolf Pack Meetup on Omegle, was awesome meeting you guys! Going to do meetups a lot more often (interest sssniperwolf), I'll tweet out when I do so make sure to follow me on twitter to know when! http://www.twitter.com/SSSniperWolf\n\nTwitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Headset: http://www.turtlebeach.com\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gebNaozTUdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gebNaozTUdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gebNaozTUdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gebNaozTUdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gebNaozTUdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "wolf pack",
+          "omegle",
+          "funny",
+          "reactions",
+          "omegle funny moments",
+          "omegle funny reactions",
+          "fan meetup",
+          "sniper wolf",
+          "sssniperwolf omegle"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FUNNY OMEGLE REACTIONS | WOLF PACK MEETUP!",
+          "description": "WOLF PACK MEETUP! | FUNNY OMEGLE REACTIONS! Did a Wolf Pack Meetup on Omegle, was awesome meeting you guys! Going to do meetups a lot more often (interest sssniperwolf), I'll tweet out when I do so make sure to follow me on twitter to know when! http://www.twitter.com/SSSniperWolf\n\nTwitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Headset: http://www.turtlebeach.com\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "397745",
+        "likeCount": "16783",
+        "favoriteCount": "0",
+        "commentCount": "1131"
+      }
+    }
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "b7Zq1nNhlVwljXOEBIr7TKS7Ffc",
       "id": "7TeVQuhQUNw",
       "snippet": {
         "publishedAt": "2014-05-04T19:58:20Z",
@@ -1339,7 +1389,7 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "75378",
+        "viewCount": "75371",
         "likeCount": "3212",
         "favoriteCount": "0",
         "commentCount": "235"
@@ -1347,39 +1397,39 @@
     }
   },
   {
-    "type": "removed",
-    "old_video": {
+    "type": "duration",
+    "video": {
       "kind": "youtube#video",
-      "etag": "Sv1JyoMWy-Y8hlB67eE46_xwo1Q",
-      "id": "RTIvMvbOH6g",
+      "etag": "pR99OiHNEKmyihAyx_3_0WO5dM4",
+      "id": "n9GnX0TopCA",
       "snippet": {
-        "publishedAt": "2016-12-24T20:00:52Z",
+        "publishedAt": "2023-10-17T21:05:01Z",
         "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "GIRL ON OMEGLE",
-        "description": "GIRL ON OMEGLE! LEAVE A LIKE IF YOU ENJOYED! Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf",
+        "title": "people having a very BAD day",
+        "description": "People Having A Very BAD Day! Comment what you thought was the worst clip and Leave a Like if you enjoyed! Watch the last one https://youtu.be/rWAJG0PJ-_0 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/default.jpg",
+            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RTIvMvbOH6g/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -1388,23 +1438,27 @@
         "tags": [
           "sssniperwolf",
           "sniper wolf",
-          "sniperwolf",
-          "omegle",
-          "sssniperwolf omegle",
-          "omegle funny",
-          "omegle trolling",
-          "omegle prank",
-          "omegle girls"
+          "reacting",
+          "reaction",
+          "funny",
+          "people",
+          "bad day",
+          "people having a very bad day",
+          "people having a bad day",
+          "unlucky",
+          "lucky",
+          "unlucky people"
         ],
-        "categoryId": "20",
+        "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "GIRL ON OMEGLE",
-          "description": "GIRL ON OMEGLE! LEAVE A LIKE IF YOU ENJOYED! Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf"
-        }
+          "title": "people having a very BAD day",
+          "description": "People Having A Very BAD Day! Comment what you thought was the worst clip and Leave a Like if you enjoyed! Watch the last one https://youtu.be/rWAJG0PJ-_0 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT11M5S",
+        "duration": "PT11M39S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1413,18 +1467,20 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "2011110",
-        "likeCount": "38677",
+        "viewCount": "1044606",
+        "likeCount": "28534",
         "favoriteCount": "0",
-        "commentCount": "2133"
+        "commentCount": "15841"
       }
-    }
+    },
+    "old_duration": 734,
+    "new_duration": 699
   },
   {
     "type": "duration",
     "video": {
       "kind": "youtube#video",
-      "etag": "1uXx6k5lFLIyEBtxPMuWiCDE_ls",
+      "etag": "qJLhb8biQ7tfQ98rrck7meQMzCE",
       "id": "AwHaDSl3tuA",
       "snippet": {
         "publishedAt": "2023-09-23T18:07:00Z",
@@ -1492,417 +1548,49 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "1484280",
-        "likeCount": "34472",
+        "viewCount": "1495895",
+        "likeCount": "34549",
         "favoriteCount": "0",
-        "commentCount": "1853"
+        "commentCount": "1855"
       }
     },
     "old_duration": 550,
     "new_duration": 542
   },
   {
-    "type": "removed",
-    "old_video": {
-      "kind": "youtube#video",
-      "etag": "tADe8nSfSgJ-wWn3YpU2v7TovWM",
-      "id": "aEt8uMbuwh4",
-      "snippet": {
-        "publishedAt": "2016-08-14T01:37:19Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "HARLEY QUINN TROLL ON OMEGLE",
-        "description": "HARLEY QUINN  ON OMEGLE! Another Omegle Trolling & Funny Moments vid as Harley Quinn! LEAVE A LIKE IF YOU ENJOYED! Sorry for no upload yesterday... Subscribe to join the Wolf Pack if you haven't already and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/aEt8uMbuwh4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "omegle",
-          "omegle trolling",
-          "funny omegle",
-          "sssniperwolf omegle",
-          "omegle pranks",
-          "omegle sssniperwolf",
-          "omegle funny"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "HARLEY QUINN TROLL ON OMEGLE",
-          "description": "HARLEY QUINN  ON OMEGLE! Another Omegle Trolling & Funny Moments vid as Harley Quinn! LEAVE A LIKE IF YOU ENJOYED! Sorry for no upload yesterday... Subscribe to join the Wolf Pack if you haven't already and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT9M6S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2413820",
-        "likeCount": "56837",
-        "favoriteCount": "0",
-        "commentCount": "4468"
-      }
-    }
-  },
-  {
-    "type": "removed",
-    "old_video": {
-      "kind": "youtube#video",
-      "etag": "Y0NI10cY_5770wYho1GlIoPpKgk",
-      "id": "dY7t8Zi8zFc",
-      "snippet": {
-        "publishedAt": "2016-08-05T20:00:20Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "WILL YOU BE MY GIRLFRIEND | OMEGLE FUNNY MOMENTS",
-        "description": "OMEGLE TROLLING & FUNNY MOMENTS - WILL YOU BE MY GIRLFRIEND!? Leave a Like if you enjoyed and can't wait for the next Omegle video! Subscribe to join the Wolf Pack and follow me Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/dY7t8Zi8zFc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "sniper wolf",
-          "omegle",
-          "sssniperwolf omegle",
-          "omegle trolling",
-          "omegle funny",
-          "funny omegle"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "WILL YOU BE MY GIRLFRIEND | OMEGLE FUNNY MOMENTS",
-          "description": "OMEGLE TROLLING & FUNNY MOMENTS - WILL YOU BE MY GIRLFRIEND!? Leave a Like if you enjoyed and can't wait for the next Omegle video! Subscribe to join the Wolf Pack and follow me Subscribe to join the Wolf Pack and follow me Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT10M25S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "5607485",
-        "likeCount": "147400",
-        "favoriteCount": "0",
-        "commentCount": "6347"
-      }
-    }
-  },
-  {
-    "type": "removed",
-    "old_video": {
-      "kind": "youtube#video",
-      "etag": "5O2Fsb6H-mk7y37sGS0TRJpNBdg",
-      "id": "kpQ3InMlC1U",
-      "snippet": {
-        "publishedAt": "2016-05-21T19:00:00Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "OMEGLE TROLLING | PICKING UP GIRLS ON OMEGLE",
-        "description": "Funny Omegle Trolling Picking up girls! Learned a funny trolling prank for Omegle and had to try it! Let me know what you guys want to see me do in Omegle videos! Hit that Like button in the face if you enjoyed and want more funny omegle videos and subscribe to join the Wolf Pack if you haven't already! FOLLOW ME: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/allieber",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kpQ3InMlC1U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "omegle",
-          "sssniperwolf omegle",
-          "sssniperwolf",
-          "omegle trolling",
-          "pranks gone wrong",
-          "omegle funny moments",
-          "omegle pranks"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "OMEGLE TROLLING | PICKING UP GIRLS ON OMEGLE",
-          "description": "Funny Omegle Trolling Picking up girls! Learned a funny trolling prank for Omegle and had to try it! Let me know what you guys want to see me do in Omegle videos! Hit that Like button in the face if you enjoyed and want more funny omegle videos and subscribe to join the Wolf Pack if you haven't already! FOLLOW ME: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/allieber"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT6M57S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "6457229",
-        "likeCount": "62023",
-        "favoriteCount": "0",
-        "commentCount": "2586"
-      }
-    }
-  },
-  {
-    "type": "removed",
-    "old_video": {
-      "kind": "youtube#video",
-      "etag": "nAECJveUXWbeNxkTSXVQ10HHmMk",
-      "id": "vUggtyO6LGc",
-      "snippet": {
-        "publishedAt": "2016-04-22T20:04:44Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "THE MEANEST GIRL ON OMEGLE | Omegle Funny Moments",
-        "description": "Funny Omegle Trolling | MEANEST GIRL ON OMEGLE! Time for another Omegle Trolling/Funny Moments video :D Hit that Like button in the face if you enjoyed and want more Omegle videos! Subscribe to join the Wolf Pack! Follow me: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vUggtyO6LGc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "omegle",
-          "sniper wolf",
-          "omegle trolling",
-          "omegle prank",
-          "sssniperwolf omegle",
-          "funny omegle",
-          "omegle funny moments",
-          "funny"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "THE MEANEST GIRL ON OMEGLE | Omegle Funny Moments",
-          "description": "Funny Omegle Trolling | MEANEST GIRL ON OMEGLE! Time for another Omegle Trolling/Funny Moments video :D Hit that Like button in the face if you enjoyed and want more Omegle videos! Subscribe to join the Wolf Pack! Follow me: Twitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT8M17S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2239706",
-        "likeCount": "53160",
-        "favoriteCount": "0",
-        "commentCount": "2056"
-      }
-    }
-  },
-  {
-    "type": "removed",
-    "old_video": {
-      "kind": "youtube#video",
-      "etag": "diwTNIULt3g7AWP9i-wLcmM2Nf0",
-      "id": "gebNaozTUdo",
-      "snippet": {
-        "publishedAt": "2016-02-17T01:57:56Z",
-        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "FUNNY OMEGLE REACTIONS | WOLF PACK MEETUP!",
-        "description": "WOLF PACK MEETUP! | FUNNY OMEGLE REACTIONS! Did a Wolf Pack Meetup on Omegle, was awesome meeting you guys! Going to do meetups a lot more often (interest sssniperwolf), I'll tweet out when I do so make sure to follow me on twitter to know when! http://www.twitter.com/SSSniperWolf\n\nTwitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Headset: http://www.turtlebeach.com\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gebNaozTUdo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gebNaozTUdo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gebNaozTUdo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gebNaozTUdo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gebNaozTUdo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SSSniperWolf",
-        "tags": [
-          "sssniperwolf",
-          "wolf pack",
-          "omegle",
-          "funny",
-          "reactions",
-          "omegle funny moments",
-          "omegle funny reactions",
-          "fan meetup",
-          "sniper wolf",
-          "sssniperwolf omegle"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "FUNNY OMEGLE REACTIONS | WOLF PACK MEETUP!",
-          "description": "WOLF PACK MEETUP! | FUNNY OMEGLE REACTIONS! Did a Wolf Pack Meetup on Omegle, was awesome meeting you guys! Going to do meetups a lot more often (interest sssniperwolf), I'll tweet out when I do so make sure to follow me on twitter to know when! http://www.twitter.com/SSSniperWolf\n\nTwitter: http://www.twitter.com/SSSniperWolf\nInstagram: http://instagram.com/SSSniperWolf\nFacebook: https://www.facebook.com/SSSniperWolf\nTwitch: http://www.twitch.tv/SSSWolf\nMobcrush: http://www.mobcrush.com/sssniperwolf\n\nMy Shirt Store! http://sssniperwolf.spreadshirt.com/\n\nBusiness Inquires: sniperwolfbusiness@gmail.com\n\nMy Headset: http://www.turtlebeach.com\nMy Energy Drink: Use code \"SSS\" for 10% off your order from Gamma! http://www.gfuel.com/sssniperwolf\nMy Gaming Chair: Use code \"SSS\" for 5% off your order from GT Omega Racing! http://www.gtomegaracing.com/\n\nChannel Art by: https://www.youtube.com/user/alliebercikk"
-        }
-      },
-      "contentDetails": {
-        "duration": "PT9M33S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "397834",
-        "likeCount": "16783",
-        "favoriteCount": "0",
-        "commentCount": "1131"
-      }
-    }
-  },
-  {
     "type": "duration",
     "video": {
       "kind": "youtube#video",
-      "etag": "0b4K0vNuMuKpk_yoEZLcOa7T_S8",
-      "id": "n9GnX0TopCA",
+      "etag": "_KBLjiuGAW1Y6mJx1bemtm9LW50",
+      "id": "Ty9xe3PpaQM",
       "snippet": {
-        "publishedAt": "2023-10-17T21:05:01Z",
+        "publishedAt": "2023-07-30T17:05:00Z",
         "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
-        "title": "people having a very BAD day",
-        "description": "People Having A Very BAD Day! Comment what you thought was the worst clip and Leave a Like if you enjoyed! Watch the last one https://youtu.be/rWAJG0PJ-_0 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "title": "Most Oddly Satisfying Video to watch before sleep",
+        "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last satisfying vid https://youtu.be/BQTjYSStqNM Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/n9GnX0TopCA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ty9xe3PpaQM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -1914,24 +1602,21 @@
           "reacting",
           "reaction",
           "funny",
-          "people",
-          "bad day",
-          "people having a very bad day",
-          "people having a bad day",
-          "unlucky",
-          "lucky",
-          "unlucky people"
+          "satisfying",
+          "oddly satisfying",
+          "satisfying video",
+          "oddly satisfying video"
         ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "people having a very BAD day",
-          "description": "People Having A Very BAD Day! Comment what you thought was the worst clip and Leave a Like if you enjoyed! Watch the last one https://youtu.be/rWAJG0PJ-_0 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+          "title": "Most Oddly Satisfying Video to watch before sleep",
+          "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last satisfying vid https://youtu.be/BQTjYSStqNM Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
         },
         "defaultAudioLanguage": "en"
       },
       "contentDetails": {
-        "duration": "PT11M39S",
+        "duration": "PT8M56S",
         "dimension": "2d",
         "definition": "hd",
         "caption": "false",
@@ -1940,20 +1625,178 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "892161",
-        "likeCount": "26090",
+        "viewCount": "2215047",
+        "likeCount": "39936",
         "favoriteCount": "0",
-        "commentCount": "14783"
+        "commentCount": "2337"
       }
     },
-    "old_duration": 734,
-    "new_duration": 699
+    "old_duration": 539,
+    "new_duration": 536
   },
   {
     "type": "duration",
     "video": {
       "kind": "youtube#video",
-      "etag": "qA8zxVyNeG1JXNs3ZO4H7VK6q1c",
+      "etag": "2IVStWyAtMyIdW4k-9z8Pn6Ge0c",
+      "id": "Iae1H9WAC0o",
+      "snippet": {
+        "publishedAt": "2023-01-25T21:30:04Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "TikToks Only Girls Understand!",
+        "description": "TikToks Only Girls Understand! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last tiktok vid https://youtu.be/xJP7o4lR680 Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iae1H9WAC0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "tiktok",
+          "tik tok",
+          "tiktok meme",
+          "funniest tik toks",
+          "tik toks worth watching",
+          "memes"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TikToks Only Girls Understand!",
+          "description": "TikToks Only Girls Understand! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last tiktok vid https://youtu.be/xJP7o4lR680 Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4196511",
+        "likeCount": "86559",
+        "favoriteCount": "0",
+        "commentCount": "3593"
+      }
+    },
+    "old_duration": 556,
+    "new_duration": 555
+  },
+  {
+    "type": "duration",
+    "video": {
+      "kind": "youtube#video",
+      "etag": "zSyWH3oJ3YB4zLiFqSErRfFRG8Q",
+      "id": "Y3yDKCc2spA",
+      "snippet": {
+        "publishedAt": "2023-01-23T23:55:17Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "TikToks Where I Understood The Assignment",
+        "description": "TikToks Where I Understood The Assignment! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last one https://youtu.be/hW_2uqrOzuU Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y3yDKCc2spA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "tiktok",
+          "tik tok",
+          "tiktok meme",
+          "funniest tik toks",
+          "tik toks worth watching",
+          "memes"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TikToks Where I Understood The Assignment",
+          "description": "TikToks Where I Understood The Assignment! Leave a Like if you enjoyed and comment what your favorite tiktok meme is! Watch the last one https://youtu.be/hW_2uqrOzuU Subscribe to join the Wolf Pack and enable notifications! http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4944280",
+        "likeCount": "95571",
+        "favoriteCount": "0",
+        "commentCount": "2801"
+      }
+    },
+    "old_duration": 504,
+    "new_duration": 503
+  },
+  {
+    "type": "duration",
+    "video": {
+      "kind": "youtube#video",
+      "etag": "4wMmDAXCtUIPBAJKwDFJ3gBqNe4",
       "id": "NI_dBVtS3gU",
       "snippet": {
         "publishedAt": "2022-11-14T22:43:12Z",
@@ -2019,13 +1862,250 @@
         "projection": "rectangular"
       },
       "statistics": {
-        "viewCount": "5231995",
-        "likeCount": "110532",
+        "viewCount": "5239601",
+        "likeCount": "110616",
         "favoriteCount": "0",
-        "commentCount": "2976"
+        "commentCount": "2971"
       }
     },
     "old_duration": 485,
     "new_duration": 478
+  },
+  {
+    "type": "duration",
+    "video": {
+      "kind": "youtube#video",
+      "etag": "ZQZDGxaOUisYvsE9fhxWrQ3qI80",
+      "id": "5TQCdVxMT8s",
+      "snippet": {
+        "publishedAt": "2021-05-04T19:26:48Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "Craziest Nail Art On Another Level",
+        "description": "Craziest Nail Art On Another Level! Leave a Like if you enjoyed! Watch the last vid https://youtu.be/OJJJhGmCYtc Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nilysmnails: https://www.youtube.com/c/ilysmNails/videos\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TQCdVxMT8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "nail art",
+          "weirdest",
+          "weirdest nail art",
+          "nail art designs",
+          "nails",
+          "nail",
+          "art"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Craziest Nail Art On Another Level",
+          "description": "Craziest Nail Art On Another Level! Leave a Like if you enjoyed! Watch the last vid https://youtu.be/OJJJhGmCYtc Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nilysmnails: https://www.youtube.com/c/ilysmNails/videos\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12210684",
+        "likeCount": "204406",
+        "favoriteCount": "0",
+        "commentCount": "11312"
+      }
+    },
+    "old_duration": 593,
+    "new_duration": 565
+  },
+  {
+    "type": "duration",
+    "video": {
+      "kind": "youtube#video",
+      "etag": "D365DjqZPWXG55mlbJdQMYg2q_s",
+      "id": "OqiLjfODMe4",
+      "snippet": {
+        "publishedAt": "2021-02-14T19:15:00Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "Most Oddly Satisfying Video to watch before sleep",
+        "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last vid https://youtu.be/kT0xwrCg0CA Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OqiLjfODMe4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "satisfying",
+          "oddly satisfying",
+          "satisfying video",
+          "oddly satisfying video"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Most Oddly Satisfying Video to watch before sleep",
+          "description": "Most Oddly Satisfying Video to watch before sleep! Leave a Like if you enjoyed and were satisfied! Watch the last vid https://youtu.be/kT0xwrCg0CA Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "22225760",
+        "likeCount": "342501",
+        "favoriteCount": "0",
+        "commentCount": "23426"
+      }
+    },
+    "old_duration": 507,
+    "new_duration": 506
+  },
+  {
+    "type": "removed",
+    "old_video": {
+      "kind": "youtube#video",
+      "etag": "dLbGbiii4xlHi6C3Zqgg_HBOS4c",
+      "id": "IaIBLB4VxBM",
+      "snippet": {
+        "publishedAt": "2021-07-07T20:21:01Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "Creative People And Art On Another Level",
+        "description": "Creative People And Art On Another Level! What did you think of this satisfying and creative art? Leave a Like if you enjoyed! Watch the last vid https://youtu.be/8IPYa--Wa14 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IaIBLB4VxBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IaIBLB4VxBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IaIBLB4VxBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IaIBLB4VxBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IaIBLB4VxBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "creative",
+          "artist",
+          "art",
+          "creative ideas",
+          "creativity ideas",
+          "creativity",
+          "satisfying",
+          "creative people",
+          "another level"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Creative People And Art On Another Level",
+          "description": "Creative People And Art On Another Level! What did you think of this satisfying and creative art? Leave a Like if you enjoyed! Watch the last vid https://youtu.be/8IPYa--Wa14 Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11092390",
+        "likeCount": "206666",
+        "favoriteCount": "0",
+        "commentCount": "10394"
+      }
+    }
   }
 ]

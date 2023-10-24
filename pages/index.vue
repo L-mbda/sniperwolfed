@@ -30,7 +30,9 @@ function convertIsoToTime(isoDuration: string): string {
             <!-- Timeline fetched from API -->
                 <li v-for="timelineItem in data?.timelineData" class="timeline-item">
                     <h1>{{ new Date(Number(timelineItem.timestamp) * 1000).toLocaleString([], {year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', hour12: true, hourCycle: 'h23'}) }}</h1>
-                    <a :href="timelineItem.links[0]['url']" style="        text-decoration: none;color: rgb(81, 255, 136);">{{timelineItem.links[0]["title"] }}</a>
+                    <li v-for="tLinks in timelineItem.links">
+                      <a :href="tLinks['url']" style="        text-decoration: none;color: rgb(81, 255, 136);">{{timelineItem.links[0]["title"] }}</a>
+                    </li>
                     <p>{{ timelineItem.values["header"] }}</p>
                 </li>
             </ul>

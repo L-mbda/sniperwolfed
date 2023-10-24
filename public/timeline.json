@@ -103,12 +103,12 @@
           "url": "https://www.youtube.com/watch?v=_Nw3oxVSIVA"
         },
         {
-          "title": "Video 1",
+          "title": "Video 2",
           "url": "https://www.youtube.com/watch?v=_Nw3oxVSIVA"
         },
         {
-          "title": "Video 2",
-          "url": "https://www.youtube.com/watch?v=Nwz6psgwW8g"
+          "title": "Video 3",
+          "url": "https://twitter.com/DramaAlert/status/1716530344915058763"
         },
         {
           "title": "Video 3",
@@ -125,11 +125,10 @@
         {
           "title": "Video 6",
           "url": "https://www.youtube.com/watch?v=Vtg3RjB4ZUY"
-        },
-      ],
+        }
+	],
       "values": {
-        "header": "Alia gets Community Guideline striked for 6 videos"
+        "header": "Alia gets community striked for 6 videos"
       }
-    },	
+    }
 ]
-  
